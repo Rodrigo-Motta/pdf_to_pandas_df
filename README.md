@@ -1,2 +1,3 @@
-# pdf_to_pandas_df
-An example of tabula python library to read pdf to pandas DataFrame and exploring one limitation.
+# Using Tabula to extract Tables from PDFs into pandas Dataframe
+
+An example of the python library tabula to transform a tabular pdf to pandas DataFrame and exploring one limitation.
